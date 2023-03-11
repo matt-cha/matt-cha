@@ -1,12 +1,16 @@
-##Hi there 👋
-###About Me
+## Hi there 👋
+
+### About Me
+
 I'm Matt, a software engineer based in Orange County, CA. 
 I am passionate about creating useful, fun applications that involve real world used technologies. 
 I am interested in advancing my technical skills.
-###Skills
+
+### Skills
+
 React, Node
 
-###Links
+### Links
 https://www.linkedin.com/in/matthew-cha/
 
 
