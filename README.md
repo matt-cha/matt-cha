@@ -12,8 +12,8 @@ I am interested in advancing my technical skills.
 - Tools: Tailwind, npm, Babel, Webpack, Git, GitHub, Slack
 
 ### Links
+- [LinkedIn](https://www.linkedin.com/in/matthew-cha/)
 
-https://www.linkedin.com/in/matthew-cha/
 
 https://matthewcha.pixieset.com/
 
