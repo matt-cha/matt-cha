@@ -2,9 +2,7 @@
 
 ### About Me
 
-I'm a software engineer based in Orange County, CA. 
-I am passionate about creating useful, fun applications that involve real world, modern, professional technologies. 
-I am interested in advancing my technical skills.
+I love creating applications that are not only fun, but also have real-world applications using modern, professional technologies. I am constantly seeking to improve my technical skills and I'm always open to learning new things. Outside of coding, I also do professional photography work for weddings, engagements, and events as well!
 
 ### Skills
 
