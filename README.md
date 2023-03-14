@@ -9,7 +9,7 @@ I love creating applications that are not only fun, but also have real-world app
 ### Skills
 - Currently studying - TypeScript
 - Stack: React, Node, Express, PostgreSQL, JavaScript, HTML, CSS
-- Tools: Tailwind, npm, Babel, Webpack, Git, GitHub, React Hook Forms, React Router, AJAX, VS Code
+- Tools: Tailwind, npm, Babel, Webpack, Git, GitHub, React Hook Forms, React Router, AJAX, VS Code, API
 
 ### Links
 
