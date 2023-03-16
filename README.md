@@ -4,7 +4,7 @@
 
 ### About Me
 
-I love creating applications that are not only fun, but also have real-world applications using modern, professional technologies. I am constantly seeking to improve my technical skills and I'm always open to learning new things. Outside of coding, I also do professional photography work for weddings, engagements, and events as well!
+I am a software engineer and I love creating applications that are not only fun, but also have real-world application and use with modern, professional technologies. I am constantly seeking to improve my technical skills and I'm always open to learning new things. Outside of coding, I also do professional photography work for weddings, engagements, and events as well!
 
 ### Skills
 - Currently studying - TypeScript
