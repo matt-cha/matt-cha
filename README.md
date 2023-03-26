@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am a software engineer and I love creating applications that are not only fun, but also have real-world application and use with modern, professional technologies. I am constantly seeking to improve my technical skills and I'm always open to learning new things. Outside of coding, I also do professional photography work for weddings, engagements, and events as well!
+I am a software engineer and I love creating applications that are not only fun, but also have real-world application and use with modern, professional technologies. I am constantly seeking to improve my technical skills and I'm always open to learning new things and connecting with new people. Outside of coding, I also do professional photography work for weddings, engagements, and events as well!
 
 ### Skills
 - Currently studying - TypeScript
@@ -16,17 +16,3 @@ I am a software engineer and I love creating applications that are not only fun,
 - [LinkedIn](https://www.linkedin.com/in/matthew-cha/)
 - [Photography](https://matthewcha.pixieset.com/)
 
-<!--
-**matt-cha/matt-cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
