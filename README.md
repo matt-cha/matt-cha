@@ -9,7 +9,7 @@ I am a software engineer and I love creating applications that are not only fun,
 Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/matthew-cha/)
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-cha&theme=algolia&show_icons=true)
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-cha&theme=algolia&show_icons=true&hide=contribs)
 
 ### Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
