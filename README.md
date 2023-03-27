@@ -11,7 +11,7 @@ Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/linked
 
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-cha&theme=algolia&show_icons=true)
 
-#### Stack
+### Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -21,7 +21,7 @@ Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/linked
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Tools
+### Tools
  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
  ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
@@ -34,7 +34,6 @@ Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/linked
 
 ### Links
 
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-](https://www.linkedin.com/in/matthew-cha/)
+- [LinkedIn](https://www.linkedin.com/in/matthew-cha/)
 - [Photography](https://matthewcha.pixieset.com/)
 
