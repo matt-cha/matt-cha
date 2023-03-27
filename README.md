@@ -10,7 +10,11 @@ I am a software engineer and I love creating applications that are not only fun,
 
 ### Skills
 - Currently studying - TypeScript
-- Stack: React, Node, Express, PostgreSQL, JavaScript, HTML, CSS
+- 
+### Stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+, ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+, PostgreSQL, JavaScript, HTML, CSS
 - Tools: Tailwind, npm, Babel, Webpack, Git, GitHub, React Hook Forms, React Router, AJAX, VS Code, API
 
 ### Links
