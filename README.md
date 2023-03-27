@@ -6,6 +6,9 @@
 
 I am a software engineer and I love creating applications that are not only fun, but also have real-world application and use with modern, professional technologies. I am constantly seeking to improve my technical skills and I'm always open to learning new things and connecting with new people. Outside of coding, I also do professional photography work for weddings, engagements, and events as well!
 
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/matthew-cha/)
+
 [![Matt Cha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matt-cha)](https://github.com/matt-cha/github-readme-stats)
 
 #### Stack
@@ -28,6 +31,9 @@ I am a software engineer and I love creating applications that are not only fun,
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 , API, AJAX
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-cha)](https://github.com/matt-cha/github-readme-stats)
+
 
 ### Links
 
