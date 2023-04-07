@@ -8,7 +8,8 @@ I am a software engineer and I love creating applications that are not only fun,
 
 ### LinkedIn
 
-Feel free to connect with me! I would love to chat if you have any questions or just want to say hi! 
+Feel free to connect with me! I would love to chat if you have any questions or just want to say hi!
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/matthew-cha/)
 
