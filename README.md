@@ -6,7 +6,10 @@
 
 I am a software engineer and I love creating applications that are not only fun, but also have real-world application and use with modern, professional technologies. I am constantly seeking to improve my technical skills and I'm always open to learning new things and connecting with new people. Outside of coding, I also do professional photography work for weddings, engagements, and events as well!
 
-Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+### LinkedIn
+
+Feel free to connect with me! I would love to chat if you have any questions or just want to say hi! 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/matthew-cha/)
 
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-cha&theme=algolia&show_icons=true&hide=contribs)
