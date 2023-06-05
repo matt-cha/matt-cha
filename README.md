@@ -42,11 +42,11 @@ Feel free to connect with me! I would love to chat if you have any questions or 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
-, API, AJAX
+, API, AJAX, JSON
 
 ### Links
 
 - [LinkedIn](https://www.linkedin.com/in/matthew-cha/)
 - [Photography](https://matthewcha.pixieset.com/)
-- [Portfolio](https://portfolio-website-6yix1ze6w-matt-cha.vercel.app/)
+- [Portfolio](https://portfolio-website-one-one.vercel.app/)
 
