@@ -51,5 +51,5 @@ Feel free to connect with me! I would love to chat if you have any questions or 
 
 - [LinkedIn](https://www.linkedin.com/in/matthew-cha/)
 - [Photography](https://matthewcha.pixieset.com/)
-- [Portfolio](https://portfolio-website-one-one.vercel.app/)
+- [Portfolio](https://matthewcha.vercel.app/)
 
