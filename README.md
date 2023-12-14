@@ -15,7 +15,7 @@ Feel free to connect with me! I would love to chat if you have any questions or 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/matthew-cha/)
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-cha&theme=algolia&show_icons=true&hide=contribs)
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-cha&theme=algolia&show_icons=true&hide=contribs&show=prs_merged)
 
 ### Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
