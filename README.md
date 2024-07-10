@@ -13,7 +13,8 @@ I am a software engineer and I love learning and growing my skillset as I contin
 Feel free to connect with me! I would love to chat if you have any questions or just want to say hi!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-](https://www.linkedin.com/in/matthew-cha/)
+](https://www.linkedin.com/in/matthew-cha/) 
+[Email](matthewjhcha@gmail.com)
 
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-cha&theme=algolia&show_icons=true&hide=contribs&hide_rank=true&show=prs_merged_percentage)
 
